@@ -1,3 +1,10 @@
-﻿  insertion_sort.cpp
+﻿  6.3 - Formative.cpp
+  bubble_sort.cpp
+  insertion_sort.cpp
+E:\SAE\C++\6.3 - Formative\6.3 - Formative\bubble_sort.cpp(6,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  quick_sort.cpp
 E:\SAE\C++\6.3 - Formative\6.3 - Formative\insertion_sort.cpp(8,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+E:\SAE\C++\6.3 - Formative\6.3 - Formative\quick_sort.cpp(27,16): warning C4244: 'return' : conversion de '__int64' en 'int', perte possible de données
+  Génération de code en cours...
+E:\SAE\C++\6.3 - Formative\6.3 - Formative\quick_sort.cpp(32,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
   6.3 - Formative.vcxproj -> E:\SAE\C++\6.3 - Formative\x64\Debug\6.3 - Formative.exe

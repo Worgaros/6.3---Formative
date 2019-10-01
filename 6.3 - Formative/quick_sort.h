@@ -2,7 +2,6 @@
 
 #include <iostream>
 #include <vector>
-#include <algorithm>
 #include <time.h>
 
 int partition(std::vector<int>& numbers, const int firstIndex, int lastIndex);
